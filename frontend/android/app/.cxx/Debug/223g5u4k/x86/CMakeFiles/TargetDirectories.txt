@@ -1,0 +1,2 @@
+E:/project/Flutter_Project/todolist/frontend/task_manager/android/app/.cxx/Debug/223g5u4k/x86/CMakeFiles/edit_cache.dir
+E:/project/Flutter_Project/todolist/frontend/task_manager/android/app/.cxx/Debug/223g5u4k/x86/CMakeFiles/rebuild_cache.dir
